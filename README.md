@@ -2,4 +2,5 @@
  Repo para resolver as questões do teste da target na gupy
 
  fibonacci.py = questão 2;
+ invertString.py = questão 5;
  
